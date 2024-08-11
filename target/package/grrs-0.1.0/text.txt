@@ -1,3 +1,0 @@
-0xSwarnabh
-0xSwarnabh is awesome!!
-This is my first Rust project!!
